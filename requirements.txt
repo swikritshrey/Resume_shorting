@@ -1,0 +1,9 @@
+flask
+waitress
+pypdf
+python-docx
+scikit-learn
+numpy
+anthropic
+# Optional, matches by meaning instead of keywords (large download):
+# sentence-transformers
